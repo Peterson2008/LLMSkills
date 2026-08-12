@@ -1,0 +1,4 @@
+interface:
+  display_name: "Joplin Notes"
+  short_description: "通过 Joplin API 查找、读取、创建和更新笔记"
+  default_prompt: "Use $joplin-notes to write this content into a Joplin note."

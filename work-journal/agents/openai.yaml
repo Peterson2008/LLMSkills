@@ -1,0 +1,4 @@
+interface:
+  display_name: "Work Journal"
+  short_description: "把每天完成的工作整理并写入固定的 Joplin 工作日志"
+  default_prompt: "Use $work-journal to organize what I completed today and update my Joplin work log."

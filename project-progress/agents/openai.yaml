@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Progress"
+  short_description: "把零散项目记录整理成清晰、简洁、可持续维护的进度文档"
+  default_prompt: "Use $project-progress to turn these project notes into a concise progress update."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Algorithm Report"
+  short_description: "把算法工作整理成可信、易读、专业的效果报告或实验记录"
+  default_prompt: "Use $algorithm-report to turn this algorithm work into a clear, evidence-based report."
