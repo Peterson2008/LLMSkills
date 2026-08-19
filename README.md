@@ -1,10 +1,11 @@
 # Skills
 
-这个仓库目前维护 5 个可复用 skill：
+这个仓库目前维护 6 个可复用 skill：
 
 | Skill | 用途 |
 | --- | --- |
 | [`algorithm-report`](algorithm-report/SKILL.md) | 把一次策略、算法或模型工作整理成可信、易读的效果报告或实验记录，讲清问题、做法、结果和认知。 |
+| [`cotti-gitlab`](cotti-gitlab/SKILL.md) | 访问 Cotti 内网 host 时绕开本机代理：诊断并解决 SSL_ERROR_SYSCALL / 502 等被 clash 劫持的问题，git 优先走 SSH。 |
 | [`joplin-notes`](joplin-notes/SKILL.md) | 通过 Joplin Web Clipper API 查找、读取、创建、更新或追加任意 Joplin 笔记。 |
 | [`maintain-readme-tree`](maintain-readme-tree/SKILL.md) | 把根 README 和子目录 README 组织成递归的全局文档索引，并检查断链和未注册文档。 |
 | [`project-progress`](project-progress/SKILL.md) | 整理项目当前状态、结果、里程碑和下一步，把零散日志收敛成简洁的进度文档。 |

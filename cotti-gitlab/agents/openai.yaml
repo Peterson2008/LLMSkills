@@ -1,0 +1,4 @@
+interface:
+  display_name: "Cotti GitLab"
+  short_description: "访问 Cotti 内网 host 时绕开本机代理，诊断并解决 SSL_ERROR_SYSCALL / 502 等劫持问题"
+  default_prompt: "Use $cotti-gitlab to reach this internal host that the local proxy is blocking."
