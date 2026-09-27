@@ -1,6 +1,6 @@
 # Skills
 
-这个仓库目前维护 6 个可复用 skill：
+这个仓库目前维护 7 个可复用 skill：
 
 | Skill | 用途 |
 | --- | --- |
@@ -8,8 +8,10 @@
 | [`cotti-gitlab`](cotti-gitlab/SKILL.md) | 访问 Cotti 内网 host 时绕开本机代理：诊断并解决 SSL_ERROR_SYSCALL / 502 等被 clash 劫持的问题，git 优先走 SSH。 |
 | [`joplin-notes`](joplin-notes/SKILL.md) | 通过 Joplin Web Clipper API 查找、读取、创建、更新或追加任意 Joplin 笔记。 |
 | [`maintain-readme-tree`](maintain-readme-tree/SKILL.md) | 把根 README 和子目录 README 组织成递归的全局文档索引，并检查断链和未注册文档。 |
+| [`macsync`](macsync/SKILL.md) | 在本机与 Mac mini 之间安全审计、同步和验证 Git 项目，避免覆盖双端改动。 |
 | [`project-progress`](project-progress/SKILL.md) | 整理项目当前状态、结果、里程碑和下一步，把零散日志收敛成简洁的进度文档。 |
 | [`work-journal`](work-journal/SKILL.md) | 把每天完成的工作整理成项目条目，并更新 Joplin 中固定的「工作日志」笔记。 |
+| [`lark-doc`](lark-doc/SKILL.md) | 通过本机 lark-cli 和已授权飞书用户身份读取或编辑飞书云文档（Docx / Wiki）。 |
 
 每个 skill 以自己的 `SKILL.md` 为唯一入口，可按需包含：
 

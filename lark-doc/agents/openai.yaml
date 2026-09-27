@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lark Doc"
+  short_description: "通过 lark-cli 读取或编辑飞书云文档（Docx / Wiki），使用已授权的本机飞书用户身份"
+  default_prompt: "Use $lark-doc to access this Feishu document."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Macsync"
+  short_description: "Safely sync Git projects between a Mac and Mac mini"
+  default_prompt: "Use $macsync to safely synchronize this project with Mac mini."
